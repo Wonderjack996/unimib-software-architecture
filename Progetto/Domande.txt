@@ -1,3 +1,5 @@
 1. Punto di stopo da attaccare solo a azioni?
 2. Usare stessa azione se identiche?
-3. 
+3. Cosa si intende bene per astrazione?
+4. Location bassa?
+5. Control flow?
