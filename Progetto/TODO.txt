@@ -1,0 +1,8 @@
+- Determinare per ciascun residente, su base settimanale:
+1. Il battito cardiaco medio a riposo e durante il giorno (BCmr, BCmg).
+2. Le accelerazioni medie durante la giornata (ACCm)
+3. La temperatura corporea media (TCm)
+- Calcolare il livello di rischio R di ciascun residente come R=f(BCmr, BCmg, ACCm, 
+TCm). Non si chiede di definire il dettaglio algoritmico della funzione f.
+- Mettere a disposizione degli operatori sanitari lo storico dei valori di tutti i sensori 
+per ogni residente.
