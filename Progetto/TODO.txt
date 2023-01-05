@@ -4,8 +4,6 @@
 	- fare controllo
 	- inviare anomalia (se presente) a utenti
 
-2. aggiungere activity diagram mancanti a presentazione
+2. vedere un pò la grafica
 
-3. vedere un pò la grafica
-
-4. aggiungere commenti
+3. aggiungere commenti
