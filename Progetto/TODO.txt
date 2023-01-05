@@ -1,8 +1,11 @@
-- Determinare per ciascun residente, su base settimanale:
-1. Il battito cardiaco medio a riposo e durante il giorno (BCmr, BCmg).
-2. Le accelerazioni medie durante la giornata (ACCm)
-3. La temperatura corporea media (TCm)
-- Calcolare il livello di rischio R di ciascun residente come R=f(BCmr, BCmg, ACCm, 
-TCm). Non si chiede di definire il dettaglio algoritmico della funzione f.
-- Mettere a disposizione degli operatori sanitari lo storico dei valori di tutti i sensori 
-per ogni residente.
+1. Sequence diagram per controllo stato smartwatch:
+	- check ogni 10 min.
+	- prendere dati recenti da datastore dei sensori wearable
+	- fare controllo
+	- inviare anomalia (se presente) a utenti
+
+2. aggiungere activity diagram mancanti a presentazione
+
+3. vedere un pò la grafica
+
+4. aggiungere commenti
