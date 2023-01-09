@@ -1,9 +1,0 @@
-1. Sequence diagram per controllo stato smartwatch:
-	- check ogni 10 min.
-	- prendere dati recenti da datastore dei sensori wearable
-	- fare controllo
-	- inviare anomalia (se presente) a utenti
-
-2. vedere un pò la grafica
-
-3. aggiungere commenti
